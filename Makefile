@@ -1,3 +1,3 @@
 all:
 	ponyc
-	./eatmypassword
+	./thypassword
